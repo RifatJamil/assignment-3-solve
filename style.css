@@ -1,3 +1,5 @@
+/* ---------------custom css on carousel-------------------
+-------------- ------------------------------------------*/
 .carousel-item {
     height: 32rem;
     background: black;
@@ -7,7 +9,7 @@
 
 }
 
-.container {
+.carousel-container {
     position: absolute;
     bottom: 0;
     left: 0;
