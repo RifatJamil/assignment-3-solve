@@ -27,3 +27,7 @@
     background-size: cover;
     opacity: 0.5;
 }
+
+.carousel-h1 {
+    font-size: 2.25rem;
+}
